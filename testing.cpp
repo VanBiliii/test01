@@ -7,5 +7,6 @@ int main()
 void test01()
 {
     cout << "Hello Vscode" << endl;
+    cout<<"changed""<<endl;
     return 0;
 }
