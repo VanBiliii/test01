@@ -8,5 +8,6 @@ void test01()
 {
     cout << "Hello World" << endl;
     cout<<"changing"<<endl;
+    cout<<"nothing"<<endl;
     return 0;
 }
